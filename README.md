@@ -1,5 +1,5 @@
 # SUMMARY
----
+In this project I tackled the everlasting discourse of gun violence and gun control. I found this data set on Kaggle and found it immediately interesting as I wanted to see if there was any evidence of an increase of incidents in the past couple of decades and any other interesting details.
 
 # OVERVIEW
 ---
