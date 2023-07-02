@@ -1,5 +1,5 @@
 # SUMMARY
-In this project I tackled the everlasting discourse of gun violence and gun control. I found this data set on Kaggle and found it immediately interesting as I wanted to see if there was any evidence of an increase of incidents in the past couple of decades and any other interesting details.
+In this project I tackled the everlasting discourse of gun violence and gun control. I found this data set on Kaggle and was immediately intrigued as I wanted to see if there was any evidence of an increase of incidents in the past couple of decades and any other interesting factors.
 
 # OVERVIEW
 To begin, I imported the data into a jupyter notebook in order to analyze and clean it up. The first thing I noticed right away was the total victims column had an error on the first row. This could've been the only row that was incorrect but in order to ensure all the data was accurate I deleted the total column and created one from scratch by adding the fatalities and injured columns together. I also dropped some columns as some of them were not relevant or did not have sufficient data to be of use and renamed a couple to give a more fitting name.
