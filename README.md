@@ -17,7 +17,7 @@ To begin, I imported the data into a jupyter notebook in order to analyze and cl
 Below is the dashboard I created from the dataset and research questions. I chose these specific graphs and theme to highlight the horrible tragic losses of all the events. 
 
 [Tableau Dash](https://public.tableau.com/views/GunViolence_16882679066120/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-![Dash Screenshot](https://github.com/JBBrian/Gun-Violence-Analysis/blob/main/dash.png](https://github.com/JBBrian/Gun-Violence-Analysis/blob/5dcc3d735212ff08cef5289cb82adde3d64f0920/dash.png)
+![Dash Screenshot](https://github.com/JBBrian/Gun-Violence-Analysis/blob/81010c7ae1307510475270586df0e71654c27594/dash.png)
 
 
 [Kaggle Dataset](https://www.kaggle.com/datasets/nidzsharma/us-mass-shootings-19822023)
